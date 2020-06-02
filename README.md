@@ -1,6 +1,3 @@
-# Hands On Transfer Learning with TensorFlow 2.0 Video
- [Video], published by Packt
-
 This is the code repository for [ Hands-On Transfer Learning with TensorFlow 2.0 [Video]](https://www.packtpub.com/data/hands-on-transfer-learning-with-tensorflow-2-0-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Transfer learning involves using a pre-trained model on a new problem. It is currently very popular in the field of Deep Learning because it enables you to train Deep Neural Networks with comparatively little data. In Transfer learning, knowledge of an already trained Machine Learning model is applied to a different but related problem.
